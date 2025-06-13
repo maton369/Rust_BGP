@@ -2,6 +2,7 @@
 
 mod bgp_type;
 pub mod config;
+pub mod connection;
 mod error;
 mod event;
 mod event_queue;
